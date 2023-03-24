@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'iqbalatma/sand-trail-driver',
-        'pretty_version' => 'dev-develop',
-        'version' => 'dev-develop',
-        'reference' => '5a0ddf7f88636511e24646665a434f1684e287c0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '470c8736cd8023165da645551a07d3c9b91bf201',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -152,9 +152,9 @@
             ),
         ),
         'iqbalatma/sand-trail-driver' => array(
-            'pretty_version' => 'dev-develop',
-            'version' => 'dev-develop',
-            'reference' => '5a0ddf7f88636511e24646665a434f1684e287c0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '470c8736cd8023165da645551a07d3c9b91bf201',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
