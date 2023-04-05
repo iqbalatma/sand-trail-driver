@@ -43,7 +43,7 @@ class SandTrailAPI
         ];
     }
 
-    public function storeLog(array $requestedData): void
+    public function storeLog($requestedData): void
     {
         $requestedData = $this->getFormattedRequest($requestedData);
         $this->client->post("/api/v1/logs", [
